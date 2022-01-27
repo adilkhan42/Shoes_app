@@ -1,2 +1,2 @@
 # Shoes_app
-By using javascript
+https://adilkhan42.github.io/Shoes_app/quiz.html
